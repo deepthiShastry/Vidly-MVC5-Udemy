@@ -7,5 +7,7 @@ On the menu bar, you have New Rentals, Customers and movies.
 - New Rentals: You can rent any number of movie with the respective user account. 
 You can also login to this application using your facebook account. 
 
+In the Model section you can find raw data components which are necessary to buid this application; In the controller section you can find the actions and validations which are necessary to perform interaction on the data model objects. Finally, In the view section you will find the user interface.  
+
 I have learnt developing mvc5 application with the help of ASP.NET MVC5 course on Udemy. 
 This is a sample application built with the help of the tutor Mosh Hamedani. 
